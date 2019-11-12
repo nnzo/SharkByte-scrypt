@@ -1,3 +1,5 @@
-Development moved to https://gitlab.com/blacknet-ninja
+SharkByte Source Tree.
 
-https://sharkbyte.org/ aims to continue on sharkbyte chain.
+https://discord.gg/uGtezEc
+
+https://t.me/Shark_cex
