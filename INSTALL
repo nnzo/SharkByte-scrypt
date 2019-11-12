@@ -1,0 +1,9 @@
+Building sharkbyte
+
+See doc/readme-qt.rst for instructions on building sharkbyte QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of sharkbyte.
+
+See doc/build-*.txt for instructions on building sharkbyted,
+the intended-for-services, no-graphical-interface, reference
+implementation of sharkbyte.

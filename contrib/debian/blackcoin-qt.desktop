@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sharkbyte
+Comment=sharkbyte P2P Cryptocurrency
+Comment[fr]=sharkbyte, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=sharkbyte, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/sharkbyte-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/sharkbyte;
+Categories=Office;

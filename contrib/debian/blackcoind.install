@@ -1,0 +1,2 @@
+debian/bin/sharkbyted usr/bin
+src/sharkbyted usr/lib/sharkbyte
